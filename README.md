@@ -14,19 +14,20 @@
 - Google Material Design (вместо Twitter Bootstrap)
 
 Работни файлове:
-./src
+      
+      ./src
 
-      App.tsx
+            App.tsx
 
-      constants.json
+            constants.json
 
-      components/*
+            components/*
 
-      models/*
+            models/*
 
-      services/*
+            services/*
 
-      repositories/*
+            repositories/*
 
 Функционалности
 
