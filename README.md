@@ -15,14 +15,23 @@
 
 Работни файлове:
 ./src
-      App.tsx
+
+App.tsx
+
       constants.json
+
       components/*
+
       models/*
+
       services/*
+
       repositories/*
 
 Функционалности
+
       - Търсене по на снимки от Flickr по ключови думи
+
       - Бутони (в ляво) за търсене по избрани думи
+
       - Бутон (в дясно) за смяна на layout
