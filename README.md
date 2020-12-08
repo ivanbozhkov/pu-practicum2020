@@ -16,7 +16,7 @@
 Работни файлове:
 ./src
 
-App.tsx
+      App.tsx
 
       constants.json
 
