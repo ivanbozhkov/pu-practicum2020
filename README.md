@@ -8,10 +8,13 @@
 5) В browser навигирайте до `http://localhost:3000/`
 
 Изплозвани технологии
-- ReactJS (вместо jQuery)
-- Typescript (вместо Javascript)
-- Axios (вместо jquery.ajax)
-- Google Material Design (вместо Twitter Bootstrap)
+- HTML
+- CSS
+- ReactJS
+- Javascript
+- Axios
+- Typescript
+- Google Material Design
 
 Работни файлове:
       
